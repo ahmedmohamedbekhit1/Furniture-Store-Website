@@ -129,53 +129,53 @@ header('location:./../Errors/404.html');
                         <div class="P_card2">
                             <div class="flex">
                                 <div class="col">
-                                    <h2>Number of products</h2>
+                                    <h2 class="text-sales" >Number of products</h2>
                                     <p id="product-levels">$0.00</p>
                                 </div>
-                                <img src="img/icon.svg" alt="">
+                                <img src="img/products.png" alt="">
                             </div>
                         </div>
                         <div class="P_card2">
                             <div class="flex">
                                 <div class="col">
-                                    <h2>Unsold invetories</h2>
+                                    <h2 class="text-sales">Unsold invetories</h2>
                                     <p id="inventory-levels">0 units</p>
                                 </div>
-                                <img src="img/icon.svg" alt="">
+                                <img src="img/Unsold-invetories.png" alt="">
                             </div>
                         </div>
                         <div class="P_card2">
                             <div class="flex">
                                 <div class="col">
-                                    <h2>Sold invetories</h2>
+                                    <h2 class="text-sales">Sold invetories</h2>
                                     <p id="sold-inventory-levels">0 units</p>
                                 </div>
-                                <img src="img/icon.svg" alt="">
+                                <img src="img/Sold-invetories.png" alt="">
                             </div>
                         </div>
                         <div class="P_card2">
                             <div class="flex">
                                 <div class="col">
-                                    <h2>Unique Transactions</h2>
+                                    <h2 class="text-sales">Unique Transactions</h2>
                                     <p id="customer-satisfaction">jj</p>
                                 </div>
-                                <img src="img/icon.svg" alt="">
+                                <img src="img/Unique-Transactions.png" alt="">
                             </div>
                         </div>
                         <div class="P_card2">
                             <div class="flex">
                                 <div class="col">
-                                    <h2>Total Sales</h2>
+                                    <h2 class="text-sales">Total Sales</h2>
                                     <p id="total-sales">$0.00</p>
                                 </div>
-                                <img src="img/icon.svg" alt="">
+                                <img src="img/TotalSales.png" alt="">
                             </div>
                         </div>
                     </section>
                     <div class="flex">
                         <div class="chart-container">
                             <div class="flex">
-                                <div class="col ">
+                                <div class="col product-style">
                                     <div class="text-style">
                                         <h1>Top Bought Product</h2>
                                             <h2><?php echo $topProduct['name']; ?></h2>
@@ -187,7 +187,7 @@ header('location:./../Errors/404.html');
                             </div>
                         </div>
                         <div class="chart-container2">
-                            <canvas id="salesChart"></canvas>
+                            <canvas id="salesChart" style="padding: 3%;"></canvas>
                         </div>
                     </div>
                     <div class="flex2">
