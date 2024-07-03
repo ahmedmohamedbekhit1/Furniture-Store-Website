@@ -52,7 +52,7 @@
 Admin Dashboard Interface :
 </br></br>
 
-![Screenshot (209)](https://github.com/Arsany-Osama/Furniture-Store-Website/assets/160052013/c386f831-1984-456a-ba11-7e8205f848e9)
+![Screenshot (209)](https://github.com/ahmedmohamedbekhit1/Furniture-Store-Website/blob/master/screenshot/4.png)
 
 </br></br>
 User interface for browsing products :
