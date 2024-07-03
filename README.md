@@ -55,6 +55,12 @@ Admin Dashboard Interface :
 ![Screenshot (209)](https://github.com/ahmedmohamedbekhit1/Furniture-Store-Website/blob/master/screenshot/4.png)
 
 </br></br>
+Index user Interface :
+</br></br>
+
+![Screenshot (209)](https://github.com/ahmedmohamedbekhit1/Furniture-Store-Website/blob/master/screenshot/5.png)
+
+</br></br>
 User interface for browsing products :
 </br></br>
 
