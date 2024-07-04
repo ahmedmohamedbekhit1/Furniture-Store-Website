@@ -18,7 +18,7 @@
     <br/>
     &nbsp; &nbsp; &nbsp; &nbsp;>>With Email Verfication<<
     <br />
-    <a href="https://github.com/Arsany-Osama/Furniture-Store-Website/tree/master"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ahmedmohamedbekhit1/Furniture-Store-Website"><strong>Explore the docs »</strong></a>
   </p>
 </div>
 
